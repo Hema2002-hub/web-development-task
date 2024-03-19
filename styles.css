@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+   header, footer {
+    background: linear-gradient(to right, #ff4b2b, #ff416c);
+    /*background-color: #157128;*/
+    color: #fff;
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .member {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+  }
+
+  h2 {
+    background-color: #0fc6c9; /* Green background color */
+    color: white; /* Text color */
+    padding: 10px; /* Add padding for better appearance */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow effect */
+    width: fit-content; /* Adjust width based on content */
+    text-align: center; /* Center the text */
+    margin: 0 auto;
+  }
+  
+  .member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=0.0">
+  <title>Company Member Team</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Veritech Software IT Services</h1>
+  </header>
+  <h1>Welcome to Veritech Software IT Services, where a dedicated team of professionals works together to bring innovation, creativity and expertise to software industry, get to know the individuals who make our company thrive.</h1>
+  <h1 align="center"><u>Meet Our Team</u></h1>
+  <h2>Leadership / Management Team</h2>
+  <main>
+    <div class="member">
+        <img src="Downloads/intern/img.png" alt="Member 1">
+        <h3>Jayanth</h3>
+        <p>Founder CEO</p>
+    </div>
+
+    <div class="member">
+      <img src="Downloads/intern/img.png" alt="Member 1">
+      <h3>Hema</h3>
+      <p>Founder CEO</p>
+    </div>
+  </main>
+
+  <main>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 1">
+      <h3>Narendra</h3>
+      <p>VP,Development & Growth</p>
+    </div>
+    
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 2">
+      <h3>Madhu</h3>
+      <p>VP,Sales & Marketing</p>
+    </div>
+        <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 3">
+      <h3>Kavya</h3>
+      <p>VP,Finace & operation</p>
+    </div>
+  </main>
+  <h2 align="center">Development Team</h2>
+  <main>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 1">
+      <h3>Ragu</h3>
+      <p>Team Lead SE</p>
+    </div>
+    
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 2">
+      <h3>Kavya.k</h3>
+      <p>Software Engineer</p>
+    </div>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 3">
+      <h3>Gowtham</h3>
+      <p>Software Engineer</p>
+    </div>
+    <div class="member">
+        <img src="Downloads/intern/img.png"  alt="Member 4">
+        <h3>Hari</h3>
+        <p>Software Engineer</p>
+    </div>
+  </main>
+  <h2 align="center">Sales & Marketing Team</h2>
+  <main>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 1">
+      <h3>Narendra</h3>
+      <p>Team lead</p>
+    </div>
+    
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 2">
+      <h3>Madhu</h3>
+      <p>Sales officer</p>
+    </div>
+        <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 3">
+      <h3>Kavya</h3>
+      <p>Marketing officer</p>
+    </div>
+  </main>
+  <h2 align="center">Finance & operation</h2>
+  <main>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 1">
+      <h3>Ragu</h3>
+      <p>Team Lead Financial Analyst</p>
+    </div>
+    
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 2">
+      <h3>Kavya.k</h3>
+      <p>Accountant</p>
+    </div>
+    <div class="member">
+      <img src="Downloads/intern/img.png"  alt="Member 3">
+      <h3>Gowtham</h3>
+      <p>Controller</p>
+    </div>
+    <div class="member">
+        <img src="Downloads/intern/img.png"  alt="Member 4">
+        <h3>Hari</h3>
+        <p>Operation manager</p>
+    </div>
+
+  </main>
+
+
+
+  
+  <footer>
+    <p>&copy; 2024 Company Name</p>
+  </footer>
+</body>
+</html>
